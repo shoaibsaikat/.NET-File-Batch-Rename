@@ -18,7 +18,7 @@ namespace FileBatchRename
         {
             if(tbDirectory.Text != string.Empty && tbOrigName.Text != string.Empty)
             {
-                var files = Directory.GetFiles(tbDirectory.Text, tbOrigName.Text + "*");
+                var files = Directory.GetFiles(tbDirectory.Text, "*" + tbOrigName.Text + "*");
                 String name = string.Empty;
                 if(tbReplaceName.Text != string.Empty)
                 {

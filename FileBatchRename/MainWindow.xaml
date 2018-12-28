@@ -8,7 +8,7 @@
         Title="Batch Rename" Height="450" Width="800">
     <Grid>
         <TextBox x:Name="tbOrigName" HorizontalAlignment="Left" Height="23" Margin="170,120,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="525"/>
-        <Label Content="File Name" HorizontalAlignment="Left" Margin="62,120,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.002,0.356"/>
+        <Label Content="Common Name" HorizontalAlignment="Left" Margin="62,120,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.002,0.356"/>
         <Label Content="Replace Name" HorizontalAlignment="Left" Margin="62,185,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.022,0.37"/>
         <TextBox x:Name="tbReplaceName" HorizontalAlignment="Left" Height="23" Margin="170,189,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="525"/>
         <Button x:Name="btnReplace" Content="Replace" HorizontalAlignment="Left" Margin="620,261,0,0" VerticalAlignment="Top" Width="75" Click="BtnReplace_Click"/>
