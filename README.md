@@ -17,3 +17,7 @@ But by using this project, if we spacify the directory with common text and repl
 No more manual renaming for huge list of files.
 
 Deatailed screenshots are given inside "Instructions" folder.
+
+Installer is also available inside the publish folder, in case someone wants to run the tool right away.
+
+Please make sure to backup your data before using this tool. I will not be responsible for any data lose.
