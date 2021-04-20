@@ -16,6 +16,6 @@ In practice we rename files one by one.
 But by using this project, if we spacify the directory with common text and replacing text, this project will do that for you.
 No more manual renaming for huge list of files.
 
-Deatailed screenshots are given inside "Instructions" folder.
+Detailed screenshots are given inside "Instructions" folder.
 
 Please make sure to backup your data before using this tool. I will not be responsible for any data lose.
